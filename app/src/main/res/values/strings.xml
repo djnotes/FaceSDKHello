@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FaceSDK Hello</string>
+    <string name="license_invalid_quitting">License is not valid. Cannot continue</string>
+</resources>
